@@ -6,3 +6,9 @@ remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about

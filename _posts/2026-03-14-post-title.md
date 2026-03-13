@@ -1,8 +1,8 @@
 ---
-title: My First Post
+title: How GitHub Pages Works
 date: 2026-03-14
-categories: [Tech]
-tags: [github, blog]
+categories: [Web]
+tags: [github, blog, dev]
 ---
 
-Your article content.
+Your article content here.
