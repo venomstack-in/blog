@@ -1,14 +1,7 @@
 title: VenomStack Blog
-description: Tech, programming, and engineering posts
+description: Tech and engineering posts
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
