@@ -1,3 +1,6 @@
-title: Venom Stack Blog
-description: Blog
-theme: minima
+title: VenomStack Blog
+description: Tech and engineering posts
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+plugins:
+  - jekyll-remote-theme

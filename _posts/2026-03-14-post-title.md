@@ -1,6 +1,8 @@
 ---
-title: My First Blog Post
-date: 2026-03-13
+title: My First Post
+date: 2026-03-14
+categories: [Tech]
+tags: [github, blog]
 ---
 
-Hello, this is my first blog hosted on GitHub Pages.
+Your article content.
